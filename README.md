@@ -5,7 +5,7 @@
 1. Americano
 2. Cappuccino
 3. Espresso
-### Getting started
+## **Getting started**
 1. Download project from this repository 
 2. Open with some IDE , open CoffeeBox.cpp
 3. Compile and run project 
