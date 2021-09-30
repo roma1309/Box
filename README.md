@@ -6,6 +6,6 @@
 2. Cappuccino
 3. Espresso
 ## **Getting started**
-1. Download project from this repository 
+1. $ git clone https://github.com/roma1309/Box.git
 2. Open with some IDE , open CoffeeBox.cpp
 3. Compile and run project 
